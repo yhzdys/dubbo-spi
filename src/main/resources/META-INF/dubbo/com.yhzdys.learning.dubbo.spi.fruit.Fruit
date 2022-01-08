@@ -1,0 +1,4 @@
+apple=com.yhzdys.learning.dubbo.spi.fruit.Apple
+banana=com.yhzdys.learning.dubbo.spi.fruit.Banana
+com.yhzdys.learning.dubbo.spi.fruit.Orange
+com.yhzdys.learning.dubbo.spi.fruit.FruitWrapper
